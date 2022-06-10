@@ -1,14 +1,6 @@
 {
   "reviews": [
     {
-      "name": "Tanner",
-      "type": "Wedding",
-      "date": "07/07/2019",
-      "review": "This is a great place to get a wedding. I love the decor and the staff. I will be back for sure.",
-      "rating": 5,
-      "imageurl": "https://source.unsplash.com/1000x800"
-    },
-    {
       "name": "The McCray's",
       "type": "Wedding",
       "date": "10/07/2018",
@@ -20,7 +12,7 @@
       "name": "Goodman Chiropractic",
       "type": "Business",
       "date": "12/07/2020",
-      "review": "Our video turned out great and we love it so much, thank you NTS films",
+      "review": "Tanner knows how to get things done and make the fun! I always know when he is doing a video it will be a good time and turn out even better than I could have hoped!",
       "rating": 5,
       "imageurl": "https://source.unsplash.com/1000x804"
     },
@@ -65,14 +57,6 @@
       "imageurl": "https://source.unsplash.com/1000x802"
     },
     {
-      "name": "The Watson's",
-      "type": "Wedding",
-      "date": "10/07/2018",
-      "review": "Best Brother ever, we loved our wedding.",
-      "rating": 5,
-      "imageurl": "https://source.unsplash.com/1000x802"
-    },
-    {
       "name": "The Brewer's",
       "type": "Wedding",
       "date": "10/07/2018",
@@ -89,66 +73,18 @@
       "imageurl": "https://source.unsplash.com/1000x802"
     },
     {
-      "name": "Kallee",
+      "name": "The Bohne's",
       "type": "Wedding",
       "date": "10/07/2018",
-      "review": "Best Brother ever, we loved our wedding.",
+      "review": "Our video was perfect, it perfectly encapsulated our wedding and reception. Tanner is fun to work with and his work fantastic.",
       "rating": 5,
       "imageurl": "https://source.unsplash.com/1000x802"
     },
     {
-      "name": "Kallee",
+      "name": "The Hillyer's",
       "type": "Wedding",
       "date": "10/07/2018",
-      "review": "Best Brother ever, we loved our wedding.",
-      "rating": 5,
-      "imageurl": "https://source.unsplash.com/1000x802"
-    },
-    {
-      "name": "Kallee",
-      "type": "Wedding",
-      "date": "10/07/2018",
-      "review": "Best Brother ever, we loved our wedding.",
-      "rating": 5,
-      "imageurl": "https://source.unsplash.com/1000x802"
-    },
-    {
-      "name": "Kallee",
-      "type": "Wedding",
-      "date": "10/07/2018",
-      "review": "Best Brother ever, we loved our wedding.",
-      "rating": 5,
-      "imageurl": "https://source.unsplash.com/1000x802"
-    },
-    {
-      "name": "Kallee",
-      "type": "Wedding",
-      "date": "10/07/2018",
-      "review": "Best Brother ever, we loved our wedding.",
-      "rating": 5,
-      "imageurl": "https://source.unsplash.com/1000x802"
-    },
-    {
-      "name": "Kallee",
-      "type": "Wedding",
-      "date": "10/07/2018",
-      "review": "Best Brother ever, we loved our wedding.",
-      "rating": 5,
-      "imageurl": "https://source.unsplash.com/1000x802"
-    },
-    {
-      "name": "Kallee",
-      "type": "Wedding",
-      "date": "10/07/2018",
-      "review": "Best Brother ever, we loved our wedding.",
-      "rating": 5,
-      "imageurl": "https://source.unsplash.com/1000x802"
-    },
-    {
-      "name": "Kallee",
-      "type": "Wedding",
-      "date": "10/07/2018",
-      "review": "Best Brother ever, we loved our wedding.",
+      "review": "Tanner is the best to work with! He is calm and collected, he had the perfect energy for our wedding day. He knew exactly what to do and had a vision for how to capture our special day! As he was videoing us he was the best hype man, making us feel so good and confident. On top of all that our viddeo exceeded our expectations!!! We love every second of it! You definitely want a videographer for your wedding day and Tanner is your man:).",
       "rating": 5,
       "imageurl": "https://source.unsplash.com/1000x802"
     }
