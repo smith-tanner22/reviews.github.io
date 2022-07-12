@@ -33,6 +33,14 @@
       "imageurl": "https://i.ibb.co/zNSnmZd/hawkins.jpg"
     },
     {
+      "name": "The Davies",
+      "type": "Wedding",
+      "date": "03/24/2022",
+      "review": "NTS Films exceeded my expectations! NTS has such a good vibe about the people working there. They are so upbeat and just made it a smooth process! I would recommend them to anyone!",
+      "rating": 5,
+      "imageurl": "https://img.youtube.com/vi/H0WaQ9w4lMI/mqdefault.jpg"
+    },
+    {
       "name": "The Binnie's",
       "type": "Wedding",
       "date": "09/09/2019",
@@ -65,12 +73,28 @@
       "imageurl": "https://i.ibb.co/pw007Jz/bphtography.jpg"
     },
     {
+      "name": "Nikki Photos Photography",
+      "type": "Colleague",
+      "date": "03/17/2022",
+      "review": "NTS Films is amazing! I have worked with many videographers and he has been by far been one of my favorites. So kind, efficient, and hard-working, and the videos are unbelievable!!",
+      "rating": 5,
+      "imageurl": "https://gm1.ggpht.com/Ne3dMjJkOoT_mfWiRw6nRxLTrppe5kNBTLpRxBi25h8tjmx0tO-6b68rRExLg_hZr0WZ6QF04jSDFHCrbHoYXUH1if_1h-PwtyMQ6dh7N2FERU6c6x-EFnTa7ocTIEndiXaaa_t589K_DalzLaYWh2Kp6nnhDLH1h1lb1TA2NXNMf7-LTNKrpzN913EZC2cxENmZGVXurnjyeAeykc3S2G5Wiwhw8PhTcfpqMz3HSC6Kz-xqy-0X2Yam_hPVrRARgbqDOA0hbOUwTKdCg3LYfevnLUTmdyecOhfhWtRx-tvbdnKh8v35KxW5-lZ2AfkWUmdRqs7WjiGuItkCiF7nQ4VUuUwqgSVzZ4aqyQ__CU5kWibWEoPSzVvslIxztlK7SymQcPtsalyU0zMOtSUw9RZyOxV8GTONEwooWZ-fAblGPvaSxA2mvb_qyNlJZriZfbN4S1ahxacsiItGRTFxh3ZtWnfmqAocSRnBNp79hRCbPrjj7DrNCHq13y9YKKI6G99TpZ6ylGUq47x0FxNWMc2dUCzzP5jRSUXY1XOl45pxgBVhrflDuZs8FJZz8Zb191oPsOHBtUTJo9j0sFJ13myOZx79w2pGE7M7MGRZwzTyDNP7q1cKNKjGnsfEyEiBCT9ndgmURglbjsGrv6qcgZflKy8YtC8uJgqYgl0yINSdzuZPCyGifkIR6AyjvrgMuSf4OX_0jR4MHnWF-E899V9ChURzfUXt4sUvf5a7ssESfPi1TxCUIi6m-eU7m0wSPpE7cZUMZg=s0-l75-ft-l75-ft"
+    },
+    {
       "name": "The Bohne's",
       "type": "Wedding",
       "date": "01/09/2022",
       "review": "Our video was perfect, it perfectly encapsulated our wedding and reception. Tanner is fun to work with and his work fantastic.",
       "rating": 5,
       "imageurl": "https://i.ibb.co/7pnZyy9/bohne.jpg"
+    },
+    {
+      "name": "The Watson's",
+      "type": "Wedding",
+      "date": "12/02/2018",
+      "review": "NTS Films blew me away with the quality of the wedding video he made us. We literally got everything we wanted. It still leaves us breathless every time we rewatch it and relive our special day.",
+      "rating": 5,
+      "imageurl": "https://img.youtube.com/vi/PYYdxTWxsqo/mqdefault.jpg"
     },
     {
       "name": "The Pennington's",
